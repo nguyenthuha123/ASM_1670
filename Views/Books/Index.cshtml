@@ -1,0 +1,103 @@
+﻿ @*@Model IEnumerable<_1670_Final.Models.Book>*@
+
+ @model _1670_Final.Models.Category
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-controller="Books" asp-action="Index">
+    <p>
+        <select asp-for="Bookcate" asp-items="Model.category">
+            <option value="">All</option>
+        </select>
+        Title: <input type="text" name="search" />
+        <input type="submit" value="search" />
+
+    </p>
+</form>
+<table class="table">
+    <thead>
+        @foreach (var item in Model.books) {
+        <tr>
+            <th>
+               @*@Html.DisplayNameFor(model => model.NameBook)*@
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Book_author)*@
+            </th>
+            <th>
+                @*@ @Html.DisplayNameFor(model => model.Book_publisher)*@
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Book_date)*@
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Book_price)*@
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Book_image)*@
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Book_language)*@
+            </th>
+            <th>
+                @*@ @Html.DisplayNameFor(model => model.Book_description)*@
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Book_quantity)*@
+            </th>
+            <th>
+                @*@ @Html.DisplayNameFor(model => model.Category)*@
+            </th>
+            <th></th>
+        </tr>
+        }
+    </thead>
+    <tbody>
+@foreach (var item in Model.books) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameBook)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book_author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book_publisher)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book_date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book_price)
+            </td>
+            <td>
+              <img src="@item.Book_image" height="160" width="120" asp-append-version="true" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book_language)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book_description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book_quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
