@@ -4,9 +4,9 @@
     ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<h1 style="border-bottom: 1px solid gray;">Book Details</h1>
 
-<div>
+@*<div>
     <h4>Book</h4>
     <hr />
     <dl class="row">
@@ -71,8 +71,25 @@
             @Html.DisplayFor(model => model.Category)
         </dd>
     </dl>
+</div>*@
+
+<div class="sanpham">
+    <div class="row-left">
+        <img src="@Html.DisplayFor(model => model.Book_image)">
+    </div>
+
+    <form class="right" asp-controller="Orders" asp-action="Create">
+        <div class="right-info">
+            <h3>Name: @Html.DisplayFor(model => model.NameBook)</h3>
+            <p>Price: @Html.DisplayFor(model => model.Book_price)</p>
+            <p>Publisher: @Html.DisplayFor(model => model.Book_publisher)</p>
+            <p>Language: @Html.DisplayFor(model => model.Book_language)</p>
+            <p>Description: @Html.DisplayFor(model => model.Book_description)</p>
+            <p>Category: @Html.DisplayFor(model => model.Category)</p>
+            <p><input type="submit" class="shoppingcart" name="shoppingcart" value="Add to cart"></p>
+        </div>
+    </form>
+    <div>    
 </div>
-<div>
     <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
     <a asp-action="Index">Back to List</a>
-</div>
