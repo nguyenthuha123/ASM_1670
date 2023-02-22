@@ -1,6 +1,7 @@
 {
   "Files": [
     {
+<<<<<<< HEAD
       "Id": "C:\\Bookstore_\\ASM_1670\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\1670_Final.bundle.scp.css",
       "PackagePath": "staticwebassets\\1670_Final.bundle.scp.css"
     },
@@ -242,6 +243,413 @@
     },
     {
       "Id": "C:\\Bookstore_\\ASM_1670\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+=======
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\1670_Final.bundle.scp.css",
+      "PackagePath": "staticwebassets\\1670_Final.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\css\\Book.css",
+      "PackagePath": "staticwebassets\\css\\Book.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\csslogin\\font-awesome.css",
+      "PackagePath": "staticwebassets\\csslogin\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\csslogin\\style.css",
+      "PackagePath": "staticwebassets\\csslogin\\style.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\images\\5copy.jpg",
+      "PackagePath": "staticwebassets\\images\\5copy.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\1x\\baseline_shopping_cart_black_24dp.png",
+      "PackagePath": "staticwebassets\\img\\1x\\baseline_shopping_cart_black_24dp.png"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\1x\\baseline_shopping_cart_white_24dp.png",
+      "PackagePath": "staticwebassets\\img\\1x\\baseline_shopping_cart_white_24dp.png"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\Conan.jpg",
+      "PackagePath": "staticwebassets\\img\\Conan.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\Doraemon.jpg",
+      "PackagePath": "staticwebassets\\img\\Doraemon.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\LC-prado.jpg",
+      "PackagePath": "staticwebassets\\img\\LC-prado.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\RAV4.jpg",
+      "PackagePath": "staticwebassets\\img\\RAV4.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\X7wheels.jpg",
+      "PackagePath": "staticwebassets\\img\\X7wheels.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\coding.jpg",
+      "PackagePath": "staticwebassets\\img\\coding.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\coding1.jpg",
+      "PackagePath": "staticwebassets\\img\\coding1.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\dacnhantam.jpg",
+      "PackagePath": "staticwebassets\\img\\dacnhantam.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\khann.jpg",
+      "PackagePath": "staticwebassets\\img\\khann.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\shopping.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\shoppingcart.jpg",
+      "PackagePath": "staticwebassets\\img\\shoppingcart.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\slide1.jpg",
+      "PackagePath": "staticwebassets\\img\\slide1.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\slide2.jpg",
+      "PackagePath": "staticwebassets\\img\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\slide3.jpg",
+      "PackagePath": "staticwebassets\\img\\slide3.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\slide4.jpg",
+      "PackagePath": "staticwebassets\\img\\slide4.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\slide5.jpg",
+      "PackagePath": "staticwebassets\\img\\slide5.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\sp1.jpg",
+      "PackagePath": "staticwebassets\\img\\sp1.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\sp2.jpg",
+      "PackagePath": "staticwebassets\\img\\sp2.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\sp3.jpg",
+      "PackagePath": "staticwebassets\\img\\sp3.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\sp4.jpg",
+      "PackagePath": "staticwebassets\\img\\sp4.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\sp5.jpg",
+      "PackagePath": "staticwebassets\\img\\sp5.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\sp6.jpg",
+      "PackagePath": "staticwebassets\\img\\sp6.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\sp7.img",
+      "PackagePath": "staticwebassets\\img\\sp7.img"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\sp8.jpg",
+      "PackagePath": "staticwebassets\\img\\sp8.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\teleg.jpg",
+      "PackagePath": "staticwebassets\\img\\teleg.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\tiktok.jpg",
+      "PackagePath": "staticwebassets\\img\\tiktok.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\wheel2.jpg",
+      "PackagePath": "staticwebassets\\img\\wheel2.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\img\\youtube.jpg",
+      "PackagePath": "staticwebassets\\img\\youtube.jpg"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LEARNING\\1670\\ASM_1670\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+>>>>>>> 621b89036b925d79f585b6dda94a09b4db608c70
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
