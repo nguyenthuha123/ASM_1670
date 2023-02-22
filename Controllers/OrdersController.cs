@@ -54,9 +54,7 @@ namespace _1670_Final.Controllers
             return View();
         }
 
-        // POST: Orders/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Qty,Price,Phone,OrderTime,BookId,UserId")] Order order)
@@ -90,9 +88,6 @@ namespace _1670_Final.Controllers
             return View(order);
         }
 
-        // POST: Orders/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Qty,Price,Phone,OrderTime,BookId,UserId")] Order order)

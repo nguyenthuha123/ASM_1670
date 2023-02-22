@@ -20,7 +20,7 @@ namespace _1670_Final.Controllers
         {
             _context = context;
         }
-        [Authorize(Roles = "Admin")]
+        [Authorize]
         // GET: Books
         public async Task<IActionResult> Index(string search, string Bookcate)
         {
@@ -50,6 +50,7 @@ namespace _1670_Final.Controllers
 
 
         // GET: Books/Details/5
+        [Authorize]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Book == null)
@@ -90,6 +91,7 @@ namespace _1670_Final.Controllers
         }
 
         // GET: Books/Edit/5
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Book == null)
@@ -105,11 +107,10 @@ namespace _1670_Final.Controllers
             return View(book);
         }
 
-        // POST: Books/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int id, [Bind("Id,NameBook,Book_author,Book_publisher,Book_date,Book_price,Book_image,Book_language,Book_description,Book_quantity,Category")] Book book)
         {
             if (id != book.Id)
@@ -141,6 +142,7 @@ namespace _1670_Final.Controllers
         }
 
         // GET: Books/Delete/5
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Book == null)
@@ -159,6 +161,7 @@ namespace _1670_Final.Controllers
         }
 
         // POST: Books/Delete/5
+        [Authorize(Roles = "Admin")]
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
