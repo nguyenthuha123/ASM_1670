@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Bookstore_\\ASM_1670\\1670_Final.csproj": {}
   },
   "projects": {
@@ -13,25 +12,9 @@
         "projectPath": "C:\\Bookstore_\\ASM_1670\\1670_Final.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "C:\\Bookstore_\\ASM_1670\\obj\\",
-=======
-    "D:\\LEARNING\\1670\\ASM_1670\\1670_Final.csproj": {}
-  },
-  "projects": {
-    "D:\\LEARNING\\1670\\ASM_1670\\1670_Final.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\LEARNING\\1670\\ASM_1670\\1670_Final.csproj",
-        "projectName": "1670_Final",
-        "projectPath": "D:\\LEARNING\\1670\\ASM_1670\\1670_Final.csproj",
-        "packagesPath": "C:\\Users\\HpPro\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARNING\\1670\\ASM_1670\\obj\\",
->>>>>>> 621b89036b925d79f585b6dda94a09b4db608c70
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HpPro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
