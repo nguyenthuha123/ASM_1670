@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z8+uWNkF7DSvvmArZOxXPkfW1ey2zS39XW6wkA/EOH0IMpB+TJqEfC22yUwiKfH1+F6HnqMSwWs8BtyKSpaFZg==",
+  "dgSpecHash": "Zf5s/epsRhkcQZ21tGmkgXBM1EXBxblZCJHq+oFd2AhEoyeUHF/zq89fKbR0X8BdEQBG5BHPhOlw+esG/QKG1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\1670_Final\\1670_Final.csproj",
+  "projectFilePath": "C:\\Bookstore_\\ASM_1670\\1670_Final.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

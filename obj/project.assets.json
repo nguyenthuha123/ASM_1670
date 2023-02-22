@@ -10470,11 +10470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\1670_Final\\1670_Final.csproj",
+      "projectUniqueName": "C:\\Bookstore_\\ASM_1670\\1670_Final.csproj",
       "projectName": "1670_Final",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\1670_Final\\1670_Final.csproj",
+      "projectPath": "C:\\Bookstore_\\ASM_1670\\1670_Final.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\1670_Final\\obj\\",
+      "outputPath": "C:\\Bookstore_\\ASM_1670\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
