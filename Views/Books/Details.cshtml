@@ -4,7 +4,7 @@
     ViewData["Title"] = "Details";
 }
 
-<h1 style="border-bottom: 1px solid gray;">Book Details</h1>
+<h1 class="white-text" style="border-bottom: 1px solid gray;">Book Details</h1>
 
 @*<div>
     <h4>Book</h4>
@@ -79,7 +79,7 @@
     </div>
 
     <form class="right" asp-controller="Orders" asp-action="Create">
-        <div class="right-info">
+        <div class="right-info white-text">
             <h3>Name: @Html.DisplayFor(model => model.NameBook)</h3>
             <p>Price: @Html.DisplayFor(model => model.Book_price)</p>
             <p>Publisher: @Html.DisplayFor(model => model.Book_publisher)</p>
@@ -91,5 +91,5 @@
     </form>
     <div>    
 </div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a class="white-text" asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a class="white-text" asp-action="Index">Back to List</a>
